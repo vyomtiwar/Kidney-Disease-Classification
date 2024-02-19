@@ -1,6 +1,6 @@
 {
  "argv": [
-  "python",
+  "c:/USBSTORAGE/Vyom/Image-Classification-Project/Kidney-Disease-Classification/project\\python.exe",
   "-m",
   "ipykernel_launcher",
   "-f",

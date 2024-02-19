@@ -70,6 +70,14 @@ export MLFLOW_TRACKING_USERNAME=Your DagsHub's UserName
 
 export MLFLOW_TRACKING_PASSWORD=Your DagsHub's Password
 
+```cmd
+set MLFLOW_TRACKING_URI=https://dagshub.com/vyomtiwar/Kidney-Disease-Classification.mlflow
+
+
+set MLFLOW_TRACKING_USERNAME=vyomtiwar
+
+set MLFLOW_TRACKING_PASSWORD=da863f44d5aec585af1fd47f4f08622ff400e663
+
 ```
 
 

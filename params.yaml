@@ -1,0 +1,8 @@
+AUGMENTATION: True
+IMAGE_SIZE: [224, 224, 3] # as per VGG 16 model
+BATCH_SIZE: 16
+INCLUDE_TOP: False   # I want to remove the top layer which dense layer
+EPOCHS: 2
+CLASSES: 2           # normal class and tumor class
+WEIGHTS: imagenet    # this is weights of the pre trained model
+LEARNING_RATE: 0.02
